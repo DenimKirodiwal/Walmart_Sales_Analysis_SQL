@@ -1,6 +1,7 @@
 # 🛒 Walmart Sales Analysis using SQL
 
-<img width="459" height="110" alt="image" src="https://github.com/user-attachments/assets/c5889342-5232-4ddb-af72-6838612a1b7a" />
+<img width="458" height="110" alt="image" src="https://github.com/user-attachments/assets/ef2dddc2-936e-41c9-9237-406349908f73" />
+
 
 Welcome to the **Walmart Sales Analysis** project! This project leverages SQL to explore, clean, and analyze Walmart's retail data for actionable business insights. From understanding customer behavior to identifying top-selling products and peak sales times — this analysis covers it all.
 
